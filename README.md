@@ -163,37 +163,37 @@
   </a>
 </p>
 
-<div align="center">
-  <h2 align="center" style="margin: 5px 10px;">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
-  <a href="https://github.com/ishaniekanayake">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishaniekanayake&theme=github_dark&hide_border=true" alt="Ishani's GitHub Stats Graph"/>
+<div align="center">
+  <a href="https://github.com/MalshiUdesika" target="_blank">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MalshiUdesika&theme=github_dark&hide_border=true" alt="MalshiUdesika's GitHub Stats Graph"/>
   </a>
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaniekanayake&show_icons=true&theme=github_dark&layout=compact&hide_rank=false" alt="ishaniekanayake GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MalshiUdesika&show_icons=true&theme=github_dark&layout=compact&hide_rank=false" alt="MalshiUdesika's GitHub Stats" />
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaniekanayake&layout=compact&theme=github_dark&show_icons=true" alt="ishaniekanayake Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalshiUdesika&layout=compact&theme=github_dark&show_icons=true" alt="Top Languages" />
 </div>
 
 
-## 🌐 Connect With Me
+<hr>
 
+<h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/ishani-ekanayaka-78b6312b7/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
   </a>
-  <a href="https://web.facebook.com/ishani.ekanayaka.2002" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Twitter" width="40" height="40"/>
+  <a href="https://github.com/ishaniekanayaka" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub">
   </a>
-  <a href="https://medium.com/@yourusername" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="Medium" width="40" height="40"/>
+  <a href="mailto:ishaniekanayaka27@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/gmail.png" alt="Email">
   </a>
-  <a href="mailto:ishaniekanayaka27@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="40" height="40"/>
-  </a>
+ <a href="https://web.facebook.com/ishani.ekanayaka.2002" target="_blank">
+  <img src="https://img.icons8.com/doodle/40/000000/facebook-new.png" alt="Facebook">
+</a>
 
 </p>
-
 
 <div align="center">
   <p>❤ Thanks for visiting my profile!</p>
