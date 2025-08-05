@@ -7,7 +7,7 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ishaniekanayake&label=Profile%20views&color=0e75b6&style=flat" alt="ishaniekanayake" /> 
-  <a href="https://ishaniekanayake.github.io/portfolio" target="_blank">
+  <a href="[https://ishaniekanayake.github.io/portfolio](https://port-folio-nine-mu.vercel.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View_My_Portfolio-blue?style=flat&logo=react" alt="Portfolio" />
   </a>
   <a href="https://github.com/ishaniekanayake?tab=repositories" target="_blank">
@@ -163,6 +163,18 @@
   </a>
 </p>
 
+<div align="center">
+  <h2 align="center" style="margin: 5px 10px;">📊 GitHub Stats</h2>
+
+  <a href="https://github.com/ishaniekanayake">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishaniekanayake&theme=github_dark&hide_border=true" alt="Ishani's GitHub Stats Graph"/>
+  </a>
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaniekanayake&show_icons=true&theme=github_dark&layout=compact&hide_rank=false" alt="ishaniekanayake GitHub Stats" />
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaniekanayake&layout=compact&theme=github_dark&show_icons=true" alt="ishaniekanayake Top Languages" />
+</div>
+
 
 ## 🌐 Connect With Me
 
@@ -179,9 +191,7 @@
   <a href="mailto:ishaniekanayaka27@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="40" height="40"/>
   </a>
-  <a href="https://ishaniekanayake.github.io/portfolio" target="_blank">
-    <img src="[https://img.icons8.com/color/48/000000/portfolio.png](https://port-folio-nine-mu.vercel.app/)" alt="Portfolio" width="40" height="40"/>
-  </a>
+
 </p>
 
 
