@@ -1,209 +1,274 @@
-<h1 align="center">Hello World! 👋, I'm Ishani Ekanayake</h1>
-<h3 align="center">Full Stack Developer</h3>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=30&center=true&vCenter=true&height=40&width=600&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Developer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;I'm+Ishani+Ekanayake;Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG">
 </div>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ishaniekanayake&label=Profile%20views&color=0e75b6&style=flat" alt="ishaniekanayake" /> 
-  <a href="https://ishaniekanayake.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View_My_Portfolio-blue?style=flat&logo=react" alt="Portfolio" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=header&text=&fontSize=16" width="100%"/>
+</div>
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Ishani Ekanayake
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ishaniekanayake&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ishaniekanayake?label=Followers&style=for-the-badge&color=58A6FF" alt="followers" />
+  <img src="https://img.shields.io/github/stars/ishaniekanayake?label=Profile%20Stars&style=for-the-badge&color=58A6FF" alt="stars" />
+</p>
+
+<p align="center">
+  <a href="https://port-folio-nine-mu.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Live_Demo-58A6FF?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/ishaniekanayake?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Projects-See_All_Projects-green?style=flat&logo=github" alt="Projects" />
+    <img src="https://img.shields.io/badge/📂_Projects-See_All-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+  </a>
+  <a href="mailto:ishaniekanayaka27@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Contact-Send_Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-</a>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
 
 ## 🚀 About Me
+
+```javascript
+const ishani = {
+    pronouns: "She/Her",
+    location: "Sri Lanka 🇱🇰",
+    currentFocus: "Full Stack Development",
+    learning: ["React Native", "Python", "Advanced Mobile Development"],
+    workingOn: ["Personal Portfolio", "Open Source Projects"],
+    askMeAbout: ["React Native", "Python", "Full Stack Development"],
+    funFact: "I can solve Rubik's cube while coding! 🧩",
+    goals2024: "Contribute to more open source projects"
+};
+```
 
 - 🔭 Currently working on **React Native and Python projects**
 - 🌱 Learning **advanced mobile development patterns**
 - 👯 Looking to collaborate on **open source projects**
 - 💬 Ask me about **React Native, Python, or full stack development**
-- 📫 Reach me: ishaniekanayaka27@gmail.com
-- ⚡ Fun fact: I can solve Rubik's cube while coding!
+- 📫 Reach me: **ishaniekanayaka27@gmail.com**
+- ⚡ Fun fact: **I can solve Rubik's cube while coding!**
 
-## 🛠️ Technologies & Tools
-
-### Programming Languages
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-</p>
-
-### Frontend Development
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
-  </a>
-</p>
-
-### Mobile Development
-<p align="left">
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="expo" width="40" height="40"/>
-  </a>
-</p>
-
-### Backend Development
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring-boot" width="40" height="40"/>
-  </a>
-  <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/>
-  </a>
-</p>
-
-### Database
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-</p>
-
-### DevOps & Tools
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
-  </a>
-</p>
-
-### IDEs & Tools
-<p align="left">
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="webstorm" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
-  </a>
-</p>
-
-## 📊 GitHub Stats
+</td>
+<td width="50%" align="center">
+  <img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+  
+  <div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  </div>
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishaniekanayake&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaniekanayake&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
+</p>
+
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,materialui,tailwind,bootstrap,jquery" />
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="Expo" width="48" height="48"/>
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,hibernate" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,postman" />
+  <img src="https://vitejs.dev/logo.svg" alt="Vite" width="48" height="48"/>
+</p>
+
+### 🔧 Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,webstorm,androidstudio,figma" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="48" height="48"/>
+</p>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaniekanayake&theme=radical&hide_border=true" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ishaniekanayake&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Ishani's GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaniekanayake&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishaniekanayake&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaniekanayake&theme=dark&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Ishani's GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishaniekanayake&bg_color=141321&color=FE428E&line=F8D847&point=FFFFFF&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishaniekanayake&theme=github_dark" alt="Ishani's Contribution Graph"/>
+</div>
+
+### 📈 Weekly Development Breakdown
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ishaniekanayake&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Weekly Stats"/>
+</div>
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ishaniekanayake&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7" alt="Ishani's GitHub Trophies"/>
+</div>
+
+### 📊 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishaniekanayake&custom_title=Ishani's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=58A6FF&title_color=58A6FF&area=true&hide_border=true" alt="Ishani's GitHub Activity Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/ishaniekanayake/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishaniekanayake&repo=project1&theme=dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Project 1"/>
+  </a>
+  <a href="https://github.com/ishaniekanayake/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishaniekanayake&repo=project2&theme=dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Project 2"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+<div align="center">
+  <a href="https://linkedin.com/in/ishani-ekanayake" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="Twitter" width="40" height="40"/>
+  <a href="https://twitter.com/ishani_ekanayake" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://medium.com/@yourusername" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="Medium" width="40" height="40"/>
+  <a href="https://medium.com/@ishani-ekanayake" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
   <a href="mailto:ishaniekanayaka27@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://ishaniekanayake.github.io/portfolio" target="_blank">
-    <img src="[https://img.icons8.com/color/48/000000/portfolio.png](https://port-folio-nine-mu.vercel.app/)" alt="Portfolio" width="40" height="40"/>
+  <a href="https://port-folio-nine-mu.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-</p>
-
+  <a href="https://github.com/ishaniekanayake" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
 <div align="center">
-  <p>❤️ Thanks for visiting my profile!</p>
-  <p>Last updated: August 2025</p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<div align="center">
+  <a href="https://medium.com/@ishani-ekanayake/getting-started-with-react-native" target="_blank">
+    <img src="https://img.shields.io/badge/📱_Getting_Started_with_React_Native-Read_on_Medium-58A6FF?style=for-the-badge&logo=medium&logoColor=white" alt="Blog Post 1"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://medium.com/@ishani-ekanayake/python-best-practices" target="_blank">
+    <img src="https://img.shields.io/badge/🐍_Python_Best_Practices-Read_on_Medium-58A6FF?style=for-the-badge&logo=medium&logoColor=white" alt="Blog Post 2"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://medium.com/@ishani-ekanayake/full-stack-development-journey" target="_blank">
+    <img src="https://img.shields.io/badge/💻_Full_Stack_Development_Journey-Read_on_Medium-58A6FF?style=for-the-badge&logo=medium&logoColor=white" alt="Blog Post 3"/>
+  </a>
+</div>
+<!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🎯 Current Goals
+
+<div align="center">
+
+```mermaid
+gantt
+    title My 2024 Development Journey
+    dateFormat  YYYY-MM-DD
+    section Learning
+    Master React Native        :done, learn1, 2024-01-01, 2024-06-01
+    Advanced Python Patterns   :active, learn2, 2024-04-01, 2024-08-01
+    AWS Cloud Services          :learn3, 2024-06-01, 2024-12-01
+    section Projects
+    Portfolio Website           :done, proj1, 2024-01-01, 2024-03-01
+    Mobile App Project          :active, proj2, 2024-05-01, 2024-09-01
+    Open Source Contributions  :proj3, 2024-07-01, 2024-12-01
+```
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer&text=&fontSize=16" width="100%"/>
+</div>
+
+<div align="center">
+  <h3>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> 
+    Thanks for visiting my profile! 
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+  </h3>
+  <p>
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
+    <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
+  </p>
+  <p><em>Last updated: August 2025</em></p>
+</div>
+
+---
+
+<div align="center">
+  <sub>💙 This README was created with passion and lots of ☕</sub>
 </div>
