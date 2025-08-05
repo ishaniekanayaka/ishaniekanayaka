@@ -198,13 +198,10 @@
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="40" height="40"/>
   </a>
   <a href="https://ishaniekanayake.github.io/portfolio" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/portfolio.png" alt="Portfolio" width="40" height="40"/>
+    <img src="[https://img.icons8.com/color/48/000000/portfolio.png](https://port-folio-nine-mu.vercel.app/)" alt="Portfolio" width="40" height="40"/>
   </a>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ishaniekanayake/ishaniekanayake/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
 
 <div align="center">
   <p>❤️ Thanks for visiting my profile!</p>
