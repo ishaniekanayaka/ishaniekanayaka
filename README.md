@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on *React Native and Python projects*
+- 🔭 Currently working on https://github.com/ishaniekanayaka/react-native-node-practice-app
 - 🌱 Learning *advanced mobile development patterns*
 - 👯 Looking to collaborate on *open source projects*
 - 💬 Ask me about *React Native, Python, or full stack development*
