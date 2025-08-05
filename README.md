@@ -166,13 +166,13 @@
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <a href="https://github.com/MalshiUdesika" target="_blank">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MalshiUdesika&theme=github_dark&hide_border=true" alt="MalshiUdesika's GitHub Stats Graph"/>
+  <a href="https://github.com/ishaniekanayaka" target="_blank">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishaniekanayaka&theme=github_dark&hide_border=true" alt="MalshiUdesika's GitHub Stats Graph"/>
   </a>
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MalshiUdesika&show_icons=true&theme=github_dark&layout=compact&hide_rank=false" alt="MalshiUdesika's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaniekanayaka&show_icons=true&theme=github_dark&layout=compact&hide_rank=false" alt="ishaniekanayaka's GitHub Stats" />
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalshiUdesika&layout=compact&theme=github_dark&show_icons=true" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaniekanayaka&layout=compact&theme=github_dark&show_icons=true" alt="Top Languages" />
 </div>
 
 
