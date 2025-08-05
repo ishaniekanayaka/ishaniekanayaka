@@ -182,8 +182,8 @@
   <a href="https://www.linkedin.com/in/ishani-ekanayaka-78b6312b7/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://twitter.com/yourtwitter" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="Twitter" width="40" height="40"/>
+  <a href="https://web.facebook.com/ishani.ekanayaka.2002" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Twitter" width="40" height="40"/>
   </a>
   <a href="https://medium.com/@yourusername" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="Medium" width="40" height="40"/>
