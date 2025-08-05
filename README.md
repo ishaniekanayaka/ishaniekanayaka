@@ -1,14 +1,17 @@
 <h1 align="center">Hello World! 👋, I'm Ishani Ekanayake</h1>
-<h3 align="center">Full Stack Developer </h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=30&center=true&vCenter=true&height=40&width=600&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Developer;React+Native+Specialist;Python+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=30&center=true&vCenter=true&height=40&width=600&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Developer" alt="Typing SVG">
 </div>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ishaniekanayake&label=Profile%20views&color=0e75b6&style=flat" alt="ishaniekanayake" /> 
   <a href="https://ishaniekanayake.github.io/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View_My_Portfolio-blue?style=flat&logo=react" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/ishaniekanayake?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Projects-See_All_Projects-green?style=flat&logo=github" alt="Projects" />
   </a>
 </p>
 
@@ -45,6 +48,12 @@
 
 ### Frontend Development
 <p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
@@ -62,6 +71,9 @@
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
   </a>
 </p>
 
@@ -86,6 +98,12 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring-boot" width="40" height="40"/>
+  </a>
+  <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/>
+  </a>
 </p>
 
 ### Database
@@ -95,6 +113,9 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
@@ -115,9 +136,12 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
+  </a>
 </p>
 
-### IDEs
+### IDEs & Tools
 <p align="left">
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" width="40" height="40"/>
@@ -125,30 +149,37 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
+  <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="webstorm" width="40" height="40"/>
+  </a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
   </a>
 </p>
 
 ## 📊 GitHub Stats
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaniekanayake&show_icons=true&count_private=true&theme=radical&hide_border=true" />
-  
-</td>
-<td width="50%" align="center">
-
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaniekanayake&theme=radical&hide_border=true" />
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishaniekanayake&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaniekanayake&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishaniekanayake&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaniekanayake&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishaniekanayake&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishaniekanayake&bg_color=141321&color=FE428E&line=F8D847&point=FFFFFF&hide_border=true" />
 </div>
 
 ## 🌐 Connect With Me
