@@ -7,7 +7,7 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ishaniekanayake&label=Profile%20views&color=0e75b6&style=flat" alt="ishaniekanayake" /> 
-  <a href="https://port-folio-nine-mu.vercel.app/" target="_blank">
+  <a href="https://new-portfolio-two-mauve.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View_My_Portfolio-blue?style=flat&logo=react" alt="Portfolio" />
   </a>
   <a href="https://github.com/ishaniekanayaka?tab=repositories" target="_blank">
